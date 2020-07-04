@@ -1,4 +1,4 @@
-﻿Shader "Effect/Mosaic"
+﻿Shader "UnityShaderBeginner/Mosaic"
 {
     Properties
     {

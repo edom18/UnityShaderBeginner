@@ -1,4 +1,4 @@
-﻿Shader "Unlit/WaveShader"
+﻿Shader "UnityShaderBeginner/WaveShader"
 {
     SubShader
     {

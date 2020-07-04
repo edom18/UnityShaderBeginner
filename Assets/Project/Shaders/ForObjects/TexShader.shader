@@ -1,10 +1,10 @@
-﻿Shader "Unlit/TexShader"
+﻿Shader "UnityShaderBeginner/TexShader"
 {
     Properties
     {
         _MainTex ("Main Texture", 2D) = "white" {}
     }
-        SubShader
+    SubShader
     {
         Tags { "RenderType" = "Opaque" }
         LOD 100

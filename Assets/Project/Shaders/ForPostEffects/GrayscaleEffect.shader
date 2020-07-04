@@ -1,4 +1,4 @@
-﻿Shader "Effect/Grayscale"
+﻿Shader "UnityShaderBeginner/Grayscale"
 {
     Properties
     {

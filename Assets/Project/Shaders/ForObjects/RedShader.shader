@@ -1,4 +1,4 @@
-﻿Shader "Unlit/RedShader"
+﻿Shader "UnityShaderBeginner/RedShader"
 {
     SubShader
     {

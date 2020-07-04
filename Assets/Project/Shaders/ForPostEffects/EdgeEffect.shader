@@ -1,4 +1,4 @@
-﻿Shader "Effect/Edge"
+﻿Shader "UnityShaderBeginner/Edge"
 {
     Properties
     {

@@ -1,4 +1,4 @@
-﻿Shader "Effect/Invert"
+﻿Shader "UnityShaderBeginner/Invert"
 {
     Properties
     {
